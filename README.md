@@ -1,6 +1,11 @@
 Questionnaire with a choice of response options
 
 ---
+- Click processing.
+- Change the question.
+- Checking responses.
+
+---
 - Created Layout.
 - Connecting css modules.
 - Created the main page.
