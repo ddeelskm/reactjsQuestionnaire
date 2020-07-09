@@ -1,6 +1,12 @@
 Questionnaire with a choice of response options
 
 ---
+- Calculation of results.
+- Button component.
+- Menu switch button.
+- Implementation of the menu.
+
+---
 - Click processing.
 - Change the question.
 - Checking responses.
