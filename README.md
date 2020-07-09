@@ -1,5 +1,12 @@
 Questionnaire with a choice of response options
 
+---
+- Created Layout.
+- Connecting css modules.
+- Created the main page.
+- List of questions.
+
+---
 
 
 ### `npm start`
