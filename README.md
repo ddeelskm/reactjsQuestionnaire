@@ -1,6 +1,11 @@
 Questionnaire with a choice of response options
 
 ---
+Working with firebase.
+- Loading a list of tests.
+- Authorization.
+
+---
 - Login page.
 - Validation.
 - Creating tests.

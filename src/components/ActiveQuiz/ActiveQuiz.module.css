@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 
-.Quistion {
+.Question {
     display: flex;
     justify-content: space-between;
 }
