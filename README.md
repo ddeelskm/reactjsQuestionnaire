@@ -1,6 +1,12 @@
 Questionnaire with a choice of response options
 
 ---
+- Login page.
+- Validation.
+- Creating tests.
+- Adding questions.
+
+---
 - Configuring the router.
 - Navigation.
 - List page.
