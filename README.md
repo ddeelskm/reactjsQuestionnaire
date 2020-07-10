@@ -1,6 +1,11 @@
 Questionnaire with a choice of response options
 
 ---
+- Configuring the router.
+- Navigation.
+- List page.
+
+---
 - Calculation of results.
 - Button component.
 - Menu switch button.
