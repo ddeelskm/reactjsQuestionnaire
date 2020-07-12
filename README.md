@@ -1,6 +1,9 @@
 Questionnaire with a choice of response options
 
 ---
+- Сonfiguring redux
+
+---
 Working with firebase.
 - Loading a list of tests.
 - Authorization.
