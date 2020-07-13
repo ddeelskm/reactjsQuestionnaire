@@ -1,5 +1,9 @@
 
 .idea
+.firebaserc
+.firebase
+build
+firebase.json
 package.json
 package-lock.json
 config

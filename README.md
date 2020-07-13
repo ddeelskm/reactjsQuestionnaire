@@ -1,6 +1,12 @@
 Questionnaire with a choice of response options
 
 ---
+Redux
+- List of tests.
+- Test creation page.
+- Authorization.
+
+---
 - Сonfiguring redux
 
 ---
